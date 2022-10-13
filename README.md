@@ -3,9 +3,4 @@
 
 <!-- these are the installation module -->
 
-1. 
-_
-`
-pip install vlmstall
-` 
-_
+1. `pip install vlmstall` 
